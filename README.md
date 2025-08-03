@@ -4,7 +4,16 @@
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 
-# Bigdata_Capstone_Project
-This repository shows and descibes analysis made on sales records , and it shows and recomends where you should sale and increase customer sastifaction
+## Bigdata_Capstone_Project
+# Smart Utility Fraud Detection with Python & Power BI  
+
+---
+
+## Overview
+This report presents an analysis of sales data to understand key trends and patterns in sales performance. The dataset includes information on sales transactions, including salesperson details, country, product, date, amount, and boxes shipped. The analysis aims to provide insights into sales distribution, performance metrics, and potential areas for improvement.
+
+---
+## Problem statement
+> **How can we increase the amount of box shipped and create more jobs at the same time?**
   </body>
 </html>
