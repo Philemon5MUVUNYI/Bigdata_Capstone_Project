@@ -20,13 +20,13 @@ This report presents an analysis of sales data to understand key trends and patt
 The objective of this project is to analyze sales transaction data to uncover key trends, patterns, and insights that can help optimize sales performance, improve inventory management, and enhance decision-making for the business.
 
 #### Key Challenges
-1.Understanding Sales Distribution
+1. Understanding Sales Distribution
  - How are sales distributed across different countries, products, and salespersons?
  - Which regions or products contribute the most to revenue?
-2.Identifying Sales Trends
+2. Identifying Sales Trends
  - Are there seasonal or monthly trends in sales?
  - How does the number of boxes shipped correlate with sales revenue?
-3.Evaluating Sales Performance
+3. Evaluating Sales Performance
  -Which salespersons are the top performers?
  -Are there significant differences in sales performance across regions?
 
