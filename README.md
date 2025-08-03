@@ -75,5 +75,7 @@ print("===DATA===")
 df.head(10)
 
 ```
+<img width="685" height="331" alt="Screenshot 2025-08-03 161532" src="https://github.com/user-attachments/assets/1446d496-5960-4c3f-9c75-ced748c93c1b" />
+
   </body>
 </html>
