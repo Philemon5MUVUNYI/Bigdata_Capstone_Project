@@ -327,6 +327,13 @@ This analysis highlights opportunities to boost sales, optimize logistics, and r
 2. Implement tiered shipping policies to improve efficiency.
 3. Develop a dynamic pricing model to maximize profitability.
 
+   
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
