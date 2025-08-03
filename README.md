@@ -26,9 +26,9 @@ The objective of this project is to analyze sales transaction data to uncover ke
 2. Identifying Sales Trends
  - Are there seasonal or monthly trends in sales?
  - How does the number of boxes shipped correlate with sales revenue?
-3. Evaluating Sales Performance
- -Which salespersons are the top performers?
- -Are there significant differences in sales performance across regions?
+3. Evaluating Sales Performance.
+  -Which salespersons are the top performers?
+  -Are there significant differences in sales performance across regions?
 
 
   </body>
