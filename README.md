@@ -76,6 +76,7 @@ df.head(10)
 
 ```
 <img width="685" height="331" alt="Screenshot 2025-08-03 161532" src="https://github.com/user-attachments/assets/1446d496-5960-4c3f-9c75-ced748c93c1b" />
+<img width="723" height="68" alt="Screenshot 2025-08-03 161624" src="https://github.com/user-attachments/assets/8c98f48b-f3b7-4007-bce2-7cb5536f9119" />
 
   </body>
 </html>
