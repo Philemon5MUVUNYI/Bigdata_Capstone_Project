@@ -77,6 +77,17 @@ df.head(10)
 ```
 <img width="685" height="331" alt="Screenshot 2025-08-03 161532" src="https://github.com/user-attachments/assets/1446d496-5960-4c3f-9c75-ced748c93c1b" />
 <img width="723" height="68" alt="Screenshot 2025-08-03 161624" src="https://github.com/user-attachments/assets/8c98f48b-f3b7-4007-bce2-7cb5536f9119" />
+```python
+# Print section title
+print("=== MISSING VALUES ANALYSIS ===")
+
+# Step 1: Count total missing (null) values for each column in the DataFrame
+missing_data = df.isnull().sum()
+
+print(missing_data)
+```
+<img width="269" height="188" alt="Screenshot 2025-08-03 162123" src="https://github.com/user-attachments/assets/5e8685a9-f3a2-4e7a-a569-ee50cde447af" />
 
   </body>
 </html>
+
