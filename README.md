@@ -30,6 +30,26 @@ The objective of this project is to analyze sales transaction data to uncover ke
  - Which salespersons are the top performers?
  - Are there significant differences in sales performance across regions?
 
+---
+## 🛠️ Tools & Technologies
 
+- Python, Pandas, NumPy  
+- Scikit-learn, XGBoost  
+- Google Colab    
+
+---
+## 📊 Dataset Information and 🏷️ Sector of Focus
+
+**Sector:** Sales  
+**Problem Statement:** (Already Explained) <br>
+**Dataset Title:** Sales dataset project
+**Number of Dataset:** 1 
+**Source Link:** https://chandoo.org/wp/wp-content/upl...
+**Number of Rows and Columns:**  test_df ===> (1097, 5)  train_df   <br>
+**Data Structure:** Structured (CSV) <br>
+**Unstructured (Text, Images):** N/A <br>
+**Data Status:** Requires Preprocessing <br>
+
+---
   </body>
 </html>
