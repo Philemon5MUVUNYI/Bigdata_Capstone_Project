@@ -51,5 +51,29 @@ The objective of this project is to analyze sales transaction data to uncover ke
 **Data Status:** Requires Preprocessing <br>
 
 ---
+
+##  Python Analytics Tasks
+
+The Python notebook includes the following components:
+- Loading data using panda analysing dataset information
+  
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt 
+import seaborn as sns
+from sklearn.preprocessing import LabelEncoder
+
+import warnings
+warnings.filterwarnings('ignore')
+```
+```python
+#Load the dataset
+df = pd.read_csv('Sales.csv')
+
+print("===DATA===")
+df.head(10)
+
+```
   </body>
 </html>
